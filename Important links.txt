@@ -1,0 +1,6 @@
+https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases/
+https://thorben-janssen.com/hibernate-postgresql-5-things-need-know/#2_Mappings_Custom_data_types_like_JSONB
+https://c4model.com/
+
+https://www.youtube.com/watch?v=UBnSkjsJ-ow&list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas&index=10
+https://www.youtube.com/watch?v=9SGDpanrc8U
