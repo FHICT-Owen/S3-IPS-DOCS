@@ -5,7 +5,10 @@ https://spring.io/guides/gs/spring-boot/
 https://dzone.com/articles/from-microservices-to-distributed-systems-survival
 https://somindagamage.medium.com/writing-a-simple-web-application-with-spring-boot-135aece2f278
 https://auth0.com/docs/quickstart/webapp/java-spring-boot/01-login
-
+https://circleci.com/blog/monorepo-dev-practices/
+https://github.com/jellehuibregtse/oauth2-authorization-code-poc
+https://circleci.com/blog/monorepo-dev-practices/
+https://www.fourtheorem.com/blog/monorepo
 
 Spring MCS: https://www.youtube.com/watch?v=UBnSkjsJ-ow&list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas&index=10
 Spring Boot full: https://www.youtube.com/watch?v=9SGDpanrc8U
