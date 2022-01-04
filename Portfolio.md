@@ -21,11 +21,11 @@ You use software **tooling and methodology** that continuously monitors and impr
 
 From the perspective of the customer it would be very important to be able to show that your code performs like described using the user story and that your code runs without having problems. We can achieve this by running code quality analysis tools and by writing various tests for our code. This is exactly what I did in this project. The LoggingService folder contains a microservice that has various tests that can prove that the acceptance criteria have been met if these tests succeed. The composition of the various tests can be viewed in [this](https://github.com/FHICT-S-Owen/DiscordBotManager/tree/Production/LoggingService/src/test/java/com/owendb/loggingservice) folder.
 
-![Screenshot of tests passing](https://github.com/FHICT-S-Owen/S3-IPS-DOCS/blob/main/Screenshot_LogginService_Tests.png?raw=true)
+![Screenshot of tests passing](https://github.com/FHICT-S-Owen/S3-IPS-DOCS/blob/main/screenshots/Screenshot_LogginService_Tests.png?raw=true)
 
 The screenshot below shows a summary page of sonarcloud, which I use for code quality analysis itself.
 
-![Screenshot of tests passing](https://github.com/FHICT-S-Owen/S3-IPS-DOCS/blob/main/Screenshot_SonarCloud.png?raw=true)
+![Screenshot of tests passing](https://github.com/FHICT-S-Owen/S3-IPS-DOCS/blob/main/screenshots/Screenshot_SonarCloud.png?raw=true)
 
 For this learning outcome I have been able to achieve what I wanted and am on the same page as is required for this LO to be proficient.
 
@@ -40,14 +40,14 @@ You act in a **professional manner** during software development and learning. I
 ### Feedback
 After having a feedback moment with my teacher I'd write down all the feedback that the teacher had for me in a summary on the school page called FeedPulse. In this section I'll show you some of these summaries in the form of screenshots that I've taken directly from the FeedPulse page. The smiley is the teachers rating on this summary which is very positive.
 
-![Screenshot of FeedPulse](https://github.com/FHICT-S-Owen/S3-IPS-DOCS/blob/main/Screenshot_FeedPulse.png?raw=true)
+![Screenshot of FeedPulse](https://github.com/FHICT-S-Owen/S3-IPS-DOCS/blob/main/screenshots/Screenshot_FeedPulse.png?raw=true)
 
 ### Research
 
-The research paper that Siem Lucassen and I wrote together about monorepo deployment can be found in the [Research.md](https://github.com/FHICT-S-Owen/DiscordBotManager/blob/Production/Research.md) file. We got feedback from our teacher during the writing process and applied it as much as possible.
+The research paper that Siem Lucassen and I wrote together about monorepo deployment can be found in the [Research.md](https://github.com/FHICT-S-Owen/S3-IPS-DOCS/blob/main/Research.md) file. We got feedback from our teacher during the writing process and applied it as much as possible.
 
 ### Project management
 
 My teacher also came up with the idea to use GitHub projects to keep my progress as transparent as possible together with the repository being public. Using GitHub projects has given me a lot of insight into keeping a perspective that is friendly towards outsiders. 
 
-![Screenshot of GitHub Projects page](https://github.com/FHICT-S-Owen/S3-IPS-DOCS/blob/main/Screenshot_Projects.png?raw=true)
+![Screenshot of GitHub Projects page](https://github.com/FHICT-S-Owen/S3-IPS-DOCS/blob/main/screenshots/Screenshot_Projects.png?raw=true)
