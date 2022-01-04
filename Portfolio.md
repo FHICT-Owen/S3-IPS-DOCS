@@ -2,8 +2,10 @@
 
 This portfolio has been created to prove that during the third semester of my studies, I satisfied the various learning outcomes using the different references given below as proof. Each of the different sections below will explain why I think I achieved a certain score, in agreement with my teacher. Each of the section titles have "LO" in their name which stands for learning outcome. An overview of what my project is about can be read in the [README.md](https://github.com/FHICT-S-Owen/DiscordBotManager#readme) file.
 
-## LO 1 - Web Application
+# IPS learning outcomes
+The sub sections show the various proofs for the learning outcomes of my individual project. Further down in this file there is another section with all the proofs for the group project learning outcomes.
 
+## LO 1 - Web Application
 You design and build **user-friendly**, **full-stack** web applications. The proof that I've written about in the sub-sections below should suffice for this learning outcome to be proficient. 
 
 ### User-friendliness
@@ -51,3 +53,24 @@ The research paper that Siem Lucassen and I wrote together about monorepo deploy
 My teacher also came up with the idea to use GitHub projects to keep my progress as transparent as possible together with the repository being public. Using GitHub projects has given me a lot of insight into keeping a perspective that is friendly towards outsiders. 
 
 ![Screenshot of GitHub Projects page](https://github.com/FHICT-S-Owen/S3-IPS-DOCS/blob/main/screenshots/Screenshot_Projects.png?raw=true)
+
+# GPS learning outcomes
+In the sub sections below the proofs regarding the group project are explained. 
+
+## LO 1 - Agile method
+You can implement the software process for your project according to a given **agile software development method**.
+
+## LO 2 - Business processes
+You can explain **simple** business processes and **relate** them to the development of your software project.
+
+## LO 3 - Requirements and design
+You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using **multiple types of test techniques**.
+
+## LO 4 - Cultural differences and ethics
+You **recognize** and **take into account** cultural differences when working with multi-site teams and are aware of ethical aspects in software development.
+
+## LO 5 - Professional
+You act in a **professional manner** during software development and learning.
+
+## LO 6 - Web application
+You design and build **user-friendly**, **full-stack** web applications.
