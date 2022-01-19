@@ -75,9 +75,29 @@ You **recognize** and **take into account** cultural differences when working wi
 
 ## LO 5 - Professional
 You act in a **professional manner** during software development and learning. The images below show that I'm able to communicate in a professional manner towards peers, teachers and stakeholders.
+<table>
+  <tr>
+    <td><image src="https://github.com/FHICT-S-Owen/S3-IPS-DOCS/blob/main/screenshots/FeedPulse_Group.png?raw=true"></td>
+		<td><image src="https://github.com/FHICT-S-Owen/S3-IPS-DOCS/blob/main/screenshots/FeedPulse_Self.png?raw=true"></td>    
+  </tr>
+ </table>
+
+ <td><image src="https://github.com/FHICT-S-Owen/S3-IPS-DOCS/blob/main/screenshots/FeedPulse_Peers.png?raw=true"></td>
 
 
 ## LO 6 - Web application
 You design and build **user-friendly**, **full-stack** web applications. In order to keep user-friendliness in mind I wrote some basic user experience testing in the section below.
 - [Basic user experience tests](https://github.com/DirkLemmen/Researches/issues?q=is%3Aopen+is%3Aissue)
-- Foto's in folder voor contributions aan het project
+
+The pictures below are there to show how much I have contributed to the project in terms of writing actual code.
+
+<table>
+  <tr>
+    <td><image src="https://github.com/FHICT-S-Owen/S3-IPS-DOCS/blob/main/screenshots/Contributions_MenuMCS.png?raw=true"></td>
+    <td><image src="https://github.com/FHICT-S-Owen/S3-IPS-DOCS/blob/main/screenshots/Contributions_RestaurantMCSGateway.png?raw=true"></td>
+  </tr>
+	<tr>
+    <td><image src="https://github.com/FHICT-S-Owen/S3-IPS-DOCS/blob/main/screenshots/Contributions_RestaurantSPA.png?raw=true"></td>
+    <td><image src="https://github.com/FHICT-S-Owen/S3-IPS-DOCS/blob/main/screenshots/Contributions_SessionMCS.png?raw=true"></td>
+  </tr>
+ </table>
