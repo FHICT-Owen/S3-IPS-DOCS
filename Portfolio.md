@@ -59,18 +59,25 @@ In the sub sections below the proofs regarding the group project are explained.
 
 ## LO 1 - Agile method
 You can implement the software process for your project according to a given **agile software development method**.
+- [Onderzoek over Agile en verschillende Agile methodes](https://github.com/FHICT-S-Owen/S3-GPS-DOCS/blob/main/Researches%20-%20Owen/Agile_methods.md)
 
 ## LO 2 - Business processes
 You can explain **simple** business processes and **relate** them to the development of your software project.
+- [Onderzoek over Business processes](https://github.com/FHICT-S-Owen/S3-GPS-DOCS/blob/main/Researches%20-%20Owen/Business_process.md)
 
 ## LO 3 - Requirements and design
 You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using **multiple types of test techniques**.
+- [Onderzoek over Requirements en design samen met Dirk](https://github.com/DirkLemmen/Researches/blob/master/Requirements%20and%20Design.md)
 
 ## LO 4 - Cultural differences and ethics
 You **recognize** and **take into account** cultural differences when working with multi-site teams and are aware of ethical aspects in software development.
+- [Culture en Ethics research](https://github.com/FHICT-S-Owen/S3-GPS-DOCS/blob/main/Researches%20-%20Owen/culture_and_ethics.md)
 
 ## LO 5 - Professional
-You act in a **professional manner** during software development and learning.
+You act in a **professional manner** during software development and learning. The images below show that I'm able to communicate in a professional manner towards peers, teachers and stakeholders.
+
 
 ## LO 6 - Web application
-You design and build **user-friendly**, **full-stack** web applications.
+You design and build **user-friendly**, **full-stack** web applications. In order to keep user-friendliness in mind I wrote some basic user experience testing in the section below.
+- [Basic user experience tests](https://github.com/DirkLemmen/Researches/issues?q=is%3Aopen+is%3Aissue)
+- Foto's in folder voor contributions aan het project
