@@ -71,7 +71,34 @@ You **design and implement** a (semi)automated software release process that mat
 
 Because I use a monorepo to contain all of my projects some interesting challenges appeared that I had to try and solve with the small amount of knowledge I had about both CI/CD and Monorepo's. Using the research as a way to document my findings I think that I have definitely achieved more than enough to have this LO be on an advanced level.
 
-- [Monorepo research]()
+- [Monorepo research](https://github.com/FHICT-S-Owen/S3-IPS-DOCS/blob/main/Research.md)
+
+Within my monorepo I have several workflows that make it possible to deploy my seperate projects to their own respective remote hosts. As an example, the workflow below allows me to deploy my discord bot to it's heroku host platform. This workflow only gets triggered when there are changes within the folder of the bot itself and it will only trigger a redeploy for the bot and no other services.
+
+```yml
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Heroku login credentials
+        env:
+          HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
+          HEROKU_EMAIL: ${{ secrets.HEROKU_EMAIL }}
+        run: |
+          cat > ~/.netrc <<EOF
+            machine api.heroku.com
+              login $HEROKU_EMAIL
+              password $HEROKU_API_KEY
+            machine git.heroku.com
+              login $HEROKU_EMAIL
+              password $HEROKU_API_KEY
+          EOF
+      - name: Add backend remote origin
+        run: heroku git:remote -a ${{ secrets.HEROKU_DISCORDBOT_APP_NAME }}
+      - name: Deploy backend to Heroku
+        run: git push heroku `git subtree split --prefix=DiscordBot --branch=Production`:refs/heads/master --force
+```
 
 ## LO 4 - Professional
 You act in a **professional manner** during software development and learning. I achieved this by communicating and asking feedback regularly from peers and teachers, performing research with a fellow student and managing the entirety of the project through a public project page that is attached to this repository. The abovementioned 3 things will be elaborated upon in the sections below. I think that I have been able to achieve a lot of things within this LO as well and expect this to be on a proficient level.
