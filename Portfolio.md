@@ -105,8 +105,9 @@ You act in a **professional manner** during software development and learning. T
 
 
 ## LO 6 - Web application
-You design and build **user-friendly**, **full-stack** web applications. In order to keep user-friendliness in mind I wrote some basic user experience testing in the section below.
+You design and build **user-friendly**, **full-stack** web applications. In order to keep user-friendliness in mind I wrote some basic user experience testing in the section below. I've also linked to the scrum to show the different user stories that I've taken care of.
 - [Basic user experience tests](https://github.com/DirkLemmen/Researches/issues?q=is%3Aopen+is%3Aissue)
+- [JIRA scrum board](https://fontysict.atlassian.net/jira/software/projects/SCRUM/boards/1)
 
 The pictures below are there to show how much I have contributed to the project in terms of writing actual code.
 
