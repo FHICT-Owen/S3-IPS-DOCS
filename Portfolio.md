@@ -42,6 +42,7 @@ Within this repo is a full stack application that contains a web dashboard with 
 
 #### Discord bot
 The Discord bot is a fully funtioning bot written using the discord.js v12 library. It can log data and retrieve information from the different microservices using REST calls.
+
 ![](https://i.ibb.co/Ph7Rmnm/Code-wd11-Iea-Wop.png)
 
 #### Web dashboard
