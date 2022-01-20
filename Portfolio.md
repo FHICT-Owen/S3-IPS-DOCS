@@ -1,6 +1,25 @@
-# Portfolio
+# Portfolio Semester 3
 
 This portfolio has been created to prove that during the third semester of my studies, I satisfied the various learning outcomes using the different references given below as proof. Each of the different sections below will explain why I think I achieved a certain score, in agreement with my teacher. Each of the section titles have "LO" in their name which stands for learning outcome. An overview of what my project is about can be read in the [README.md](https://github.com/FHICT-S-Owen/DiscordBotManager#readme) file.
+
+# Table of contents
+ - [IPS learning outcomes](#IPS-learning-outcomes)
+   - [LO 1 - Web Application](#LO-1---Web-Application)
+     - [User-friendliness](#User-friendliness)
+     - [Full-stack](#Full-stack)
+   - [LO 2 - Software Quality](#LO-2---Software-Quality)
+   - [LO 3 - CI/CD](#LO-3---CI/CD)
+   - [LO 4 - Professional](#LO-4---Professional)
+     - [Feedback](#Feedback)
+     - [Research](#Research)
+     - [Project management](#Project-management)
+ - [GPS learning outcomes](#GPS-learning-outcomes)
+   - [LO 1 - Agile method](#LO-1---Agile-method)
+   - [LO 2 - Business processes](#LO-2---Business-processes)
+   - [LO 3 - Requirements and design](#LO-3---Requirements-and-design)
+   - [LO 4 - Cultural differences and ethics](#LO-4---Cultural-differences-and-ethics])
+   - [LO 5 - Professional](#LO-5---Professional)
+   - [LO 6 - Web application](#LO-6---Web-application)
 
 # IPS learning outcomes
 The sub sections show the various proofs for the learning outcomes of my individual project. Further down in this file there is another section with all the proofs for the group project learning outcomes.
