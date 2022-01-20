@@ -7,6 +7,7 @@ This portfolio has been created to prove that during the third semester of my st
    - [LO 1 - Web Application](#LO-1---Web-Application)
      - [User-friendliness](#User-friendliness)
      - [Full-stack](#Full-stack)
+       - [] 
    - [LO 2 - Software Quality](#LO-2---Software-Quality)
    - [LO 3 - CI/CD](#LO-3---CI/CD)
    - [LO 4 - Professional](#LO-4---Professional)
@@ -32,10 +33,24 @@ You apply basic User experience testing and development techniques.
 
 To validate user-friendliness my teacher and I discussed the different ways in which this can be done. We came to the conclusion that testing for user-friendliness can also be achieved on my monorepo itself. I've created a GitHub issue with [repository feedback](https://github.com/FHICT-S-Owen/DiscordBotManager/issues/42) as title. This issue serves as a gathering place for validating the user-friendliness of my repo by commenting.
 
+![Repository feedback](https://i.ibb.co/St3rn2N/chrome-Gs-YIs-Ow-E4-C.png)
+
 ### Full-stack
 You design and build a full stack application using commonly accepted front end (Javascript-based framework) and back end techniques (e.g. Object Relational Mapping) choosing and implementing relevant communication protocols and addressing asynchronous communication issues.
 
 Within this repo is a full stack application that contains a web dashboard with basic authentication using Vue. The back-end consists of multiple microservices written in Java using the Spring framework and a Discord bot that together form the back-end.
+
+#### Discord bot
+The Discord bot is a fully funtioning bot written using the discord.js v12 library. It can log data and retrieve information from the different microservices using REST calls.
+![](https://i.ibb.co/Ph7Rmnm/Code-wd11-Iea-Wop.png)
+
+#### Web dashboard
+The web dashboard is a basic sample project currently that has Auth0 login integrated into it.
+![Web dashboard start](https://i.ibb.co/wCnXSq9/chrome-jlw-V6-WTUz-T.png)
+
+#### Bot logging service
+This service allows for the logging of important executions or actions that are automatically taken by the Discord bot or are executed manually by a user that interacts with the Discord Bot. These logs are able to be retrieved by the dashboard to then display where needed. In the example below are 2 logs that have been written to the service that can be retrieved using a get call
+![](https://i.ibb.co/WyMzsHW/Postman-WQvo-U0w-Zx7.png)
 
 ## LO 2 - Software Quality
 You use software **tooling and methodology** that continuously monitors and improve the software quality during software development.
@@ -54,6 +69,8 @@ For this learning outcome I have been able to achieve what I wanted and am on th
 You **design and implement** a (semi)automated software release process that matches the needs of the project context.
 
 Because I use a monorepo to contain all of my projects some interesting challenges appeared that I had to try and solve with the small amount of knowledge I had about both CI/CD and Monorepo's. Using the research as a way to document my findings I think that I have definitely achieved more than enough to have this LO be on an advanced level.
+
+- [Monorepo research]()
 
 ## LO 4 - Professional
 You act in a **professional manner** during software development and learning. I achieved this by communicating and asking feedback regularly from peers and teachers, performing research with a fellow student and managing the entirety of the project through a public project page that is attached to this repository. The abovementioned 3 things will be elaborated upon in the sections below. I think that I have been able to achieve a lot of things within this LO as well and expect this to be on a proficient level.
@@ -78,19 +95,19 @@ In the sub sections below the proofs regarding the group project are explained.
 
 ## LO 1 - Agile method
 You can implement the software process for your project according to a given **agile software development method**.
-- [Onderzoek over Agile en verschillende Agile methodes](https://github.com/FHICT-S-Owen/S3-GPS-DOCS/blob/main/Researches%20-%20Owen/Agile_methods.md)
+- [Research about Agile and various Agile methods](https://github.com/FHICT-S-Owen/S3-GPS-DOCS/blob/main/Researches%20-%20Owen/Agile_methods.md)
 
 ## LO 2 - Business processes
 You can explain **simple** business processes and **relate** them to the development of your software project.
-- [Onderzoek over Business processes](https://github.com/FHICT-S-Owen/S3-GPS-DOCS/blob/main/Researches%20-%20Owen/Business_process.md)
+- [Business processes research](https://github.com/FHICT-S-Owen/S3-GPS-DOCS/blob/main/Researches%20-%20Owen/Business_process.md)
 
 ## LO 3 - Requirements and design
 You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using **multiple types of test techniques**.
-- [Onderzoek over Requirements en design samen met Dirk](https://github.com/DirkLemmen/Researches/blob/master/Requirements%20and%20Design.md)
+- [Research about Requirements and design collaborated with Dirkk](https://github.com/DirkLemmen/Researches/blob/master/Requirements%20and%20Design.md)
 
 ## LO 4 - Cultural differences and ethics
 You **recognize** and **take into account** cultural differences when working with multi-site teams and are aware of ethical aspects in software development.
-- [Culture en Ethics research](https://github.com/FHICT-S-Owen/S3-GPS-DOCS/blob/main/Researches%20-%20Owen/culture_and_ethics.md)
+- [Culture and Ethics research](https://github.com/FHICT-S-Owen/S3-GPS-DOCS/blob/main/Researches%20-%20Owen/culture_and_ethics.md)
 
 ## LO 5 - Professional
 You act in a **professional manner** during software development and learning. The images below show that I'm able to communicate in a professional manner towards peers, teachers and stakeholders.
